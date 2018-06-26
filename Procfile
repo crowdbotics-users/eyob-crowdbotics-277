@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT eyob_crowdbotics_277.wsgi:application
